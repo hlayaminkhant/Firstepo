@@ -1,0 +1,2 @@
+first line "Apple"
+This is the file to test with git.
